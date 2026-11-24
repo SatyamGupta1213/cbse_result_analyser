@@ -1,0 +1,6 @@
+{
+  "name": "CBSE Result Analyzer",
+  "description": "Visualize student performance trends, subject-wise averages, PI, and generate master multi-sheet Excel reports from CBSE school wise gazette files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
